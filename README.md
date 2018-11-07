@@ -1,12 +1,12 @@
 # markov_chain_change_points
 R package to detect change points in discrete time, finite state Markov Chains
 
-Created as part of a 1-week Micro-Project as part of the OxWaSP Programme
+Undertaken as part of the 1 week OxWaSP project: “Probability and Approximation”
 
-Code:
+In partnership with Anastasia (Ana) Ignatieva, University of Warwick; Siu Lun (Alan) Chau, University of Oxford; and  Lorenzo Pacchiardi, University of Oxford
 
-Code written by with Ana Ig, Alan Chau, Lorenzo Picciardi and me, James Thornton
+Presentation:
 
 Report:
 
-Written by me, James Thornton
+Report ritten by James Thornton
