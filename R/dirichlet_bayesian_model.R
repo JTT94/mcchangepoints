@@ -50,7 +50,7 @@ number_of_cps_sampler <- function(max_num = 10) {
   sort(sample(x = seq_len(max_num), size = 1))
 }
 
-number_of_cps_density <- functionx(x, max_num = 10, log_density =F) {
+number_of_cps_density <- function(x, max_num = 10, log_density =F) {
   if (! log_density) {
     1/max_num
   } else {
